@@ -17,8 +17,7 @@ int chiahet(int n)
 		{
 			printf ("%d ", i);   break;
 		}
-	}
-		
+	}	
 }
 main () {
 	int t;
